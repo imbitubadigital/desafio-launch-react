@@ -41,11 +41,6 @@ não funcionaram no momento do update,
 talvez por não saber integrá-lo no Yup,
       pois mesmo marcado ou não, ficava impedindo o submit.
     </Item>
-    <Item>
-      04: Não é um problema exatamente do unform, mais tive problema com a navegação, ou seja, após
-      acessar o formulário dos produtos, ao clicar no menu lateral a reapctiva página não é
-      carregada, inclusive fiz uma gambiarra no botão voltar para conseguir terminar de integrar.
-    </Item>
     <Title>Ficarei imensamento grato se conseguir me ajudar com os problemas citados acima.</Title>
   </Container>
 );

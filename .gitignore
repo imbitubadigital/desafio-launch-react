@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/src/components/Forms/Product/index2.js
 /.pnp
 .pnp.js
 

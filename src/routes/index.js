@@ -13,7 +13,7 @@ import Home from '~/pages/Home/';
 import Category from '~/pages/Category/';
 import Section from '~/pages/Section/';
 import Products from '~/pages/Products/';
-import Product from '~/components/Forms/Product';
+import Product from '~/components/Forms/Product/index';
 import {
   Container, BoxMenu, BoxRight, BoxTop, BoxCenter,
 } from './styles';
